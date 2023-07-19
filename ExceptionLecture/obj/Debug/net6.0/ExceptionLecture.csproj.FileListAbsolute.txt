@@ -1,0 +1,15 @@
+C:\Users\osabd\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\net6.0\ExceptionLecture.csproj.AssemblyReference.cache
+C:\Users\osabd\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\net6.0\ExceptionLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osabd\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\net6.0\ExceptionLecture.AssemblyInfoInputs.cache
+C:\Users\osabd\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\net6.0\ExceptionLecture.AssemblyInfo.cs
+C:\Users\osabd\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\net6.0\ExceptionLecture.csproj.CoreCompileInputs.cache
+C:\Users\osabd\source\repos\ExceptionLecture\ExceptionLecture\bin\Debug\net6.0\ExceptionLecture.exe
+C:\Users\osabd\source\repos\ExceptionLecture\ExceptionLecture\bin\Debug\net6.0\ExceptionLecture.deps.json
+C:\Users\osabd\source\repos\ExceptionLecture\ExceptionLecture\bin\Debug\net6.0\ExceptionLecture.runtimeconfig.json
+C:\Users\osabd\source\repos\ExceptionLecture\ExceptionLecture\bin\Debug\net6.0\ExceptionLecture.dll
+C:\Users\osabd\source\repos\ExceptionLecture\ExceptionLecture\bin\Debug\net6.0\ExceptionLecture.pdb
+C:\Users\osabd\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\net6.0\ExceptionLecture.dll
+C:\Users\osabd\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\net6.0\refint\ExceptionLecture.dll
+C:\Users\osabd\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\net6.0\ExceptionLecture.pdb
+C:\Users\osabd\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\net6.0\ExceptionLecture.genruntimeconfig.cache
+C:\Users\osabd\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\net6.0\ref\ExceptionLecture.dll
